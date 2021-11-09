@@ -29,10 +29,3 @@ The greatest glory in living lies not in never falling, <b>but in rising every t
 
 The way to get started is to <b>quit talking and begin doing</b>. -Walt Disney
 
-# Python Example 
-
-# Java Example
-
-# Website Example
-
-# Lua Example 
