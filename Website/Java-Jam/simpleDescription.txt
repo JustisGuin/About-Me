@@ -1,0 +1,2 @@
+Java Jam is a small website that is based off of a coffee bar. 
+It features a home , menu , music , job and a gear page. 
