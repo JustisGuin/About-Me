@@ -7,8 +7,9 @@ Hobbies
 
 Some of my hobbies are
 
-- lacrosse 
-- working out 
+- Lacrosse 
+- Working out 
+- Jiu-jitsu 
 
 Nighttime Routine 
 
