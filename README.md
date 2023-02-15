@@ -9,7 +9,7 @@ Some of my hobbies are
 
 - Working out 
 - Jiu-jitsu
--Wrestling 
+- Wrestling 
 
 ## My Philsosphy
 
