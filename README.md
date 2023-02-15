@@ -1,15 +1,15 @@
 # About-Me
 
-My name is Justis Guin. I'm a senior at New Tech I am currently enrolled in my second year of computer science class at SICTC. I enjoy getting out on drives while listening to music and  going to the gym to workout with my friends. My goals for college are getting a bachelor's degree in Computer Science at Ball State University. My future career goals are a job as a software developing. I feel like I will be happy with getting a job in any tech related field.
+My name is Justis Guin. I'm a Sophomore(With Credits) currently enrolled at Ball State University, working towards a bachelor's degree in Computer Science with a focus in web development.I currently enjoy with my time off, going to the gym and staying active, and I also particapte in the wrestling club at BSU. My goals for the future are to complete my bachelor's degree in 3 years and look for a job under my focus after college. 
 
 # Hobbies
 
 
 Some of my hobbies are
 
-- Lacrosse 
 - Working out 
-- Jiu-jitsu 
+- Jiu-jitsu
+-Wrestling 
 
 ## My Philsosphy
 
